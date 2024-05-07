@@ -26,6 +26,10 @@ Add Member
 Update Member
 ![image](https://github.com/hafidzf25/TP4DPBO2024C2/assets/117885795/17c21850-4180-4213-88c7-e5d30d45c842)
 
-Untuk tampilan depan, add, update pada table lain hampir sama dengan yang Table Member.
+Untuk tampilan depan, add, update pada table
+
+ lain hampir sama dengan yang Table Member.
 
 # Record
+
+https://github.com/hafidzf25/TP4DPBO2024C2/assets/117885795/824894ae-8fb8-4719-a4e7-6c662b6be56b
