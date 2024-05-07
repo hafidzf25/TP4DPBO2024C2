@@ -14,3 +14,14 @@ Folder Views yang berisikan data dari Controllers, dan bisa juga berisikan tag h
 Folder Templates yang berisikan layout tampilan yang ingin ditampilkan.
 
 # Dokumentasi
+
+Tampilan depan Member
+![image](https://github.com/hafidzf25/TP4DPBO2024C2/assets/117885795/7a8fdbec-58a8-4b4f-afcc-a2f7995a4abc)
+
+
+Add Member
+![image](https://github.com/hafidzf25/TP4DPBO2024C2/assets/117885795/80eea2b3-69b4-4cb3-bfff-35385ff06a77)
+
+
+Update Member
+![image](https://github.com/hafidzf25/TP4DPBO2024C2/assets/117885795/17c21850-4180-4213-88c7-e5d30d45c842)
